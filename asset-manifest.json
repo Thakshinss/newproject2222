@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2757bccd.css",
+    "main.js": "/static/js/main.24a880bb.js",
+    "static/js/787.bffb7e8e.chunk.js": "/static/js/787.bffb7e8e.chunk.js",
+    "static/media/Tak.png": "/static/media/Tak.333f9bd051e33ad06804.png",
+    "index.html": "/index.html",
+    "main.2757bccd.css.map": "/static/css/main.2757bccd.css.map",
+    "main.24a880bb.js.map": "/static/js/main.24a880bb.js.map",
+    "787.bffb7e8e.chunk.js.map": "/static/js/787.bffb7e8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2757bccd.css",
+    "static/js/main.24a880bb.js"
+  ]
+}
